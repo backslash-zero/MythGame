@@ -1,0 +1,3 @@
+Person crosses water/descends tree.
+Person steps on animal/body part.
+Person falls/drowns."
