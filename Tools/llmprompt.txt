@@ -1,0 +1,3 @@
+llm: Mistral Large 2
+I will give you a list of mythemes, generate a myth. Please keep it under 100 words.
+It should feel more like narration with tangible/poetic elements and fluid storytelling. The language is the one of a tale and it should be understandable, clear, and creative. Don't be afraid to use foul language or graphic descriptions. Don't use words that are too old and difficult to understand. 
