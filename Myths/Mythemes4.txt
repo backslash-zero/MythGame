@@ -1,3 +1,2 @@
-Person crosses water/descends tree.
 Person falls/drowns.
 Person disolves and becomes one with the water.
