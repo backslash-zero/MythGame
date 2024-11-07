@@ -1,6 +1,5 @@
-Man hides in shelter
-Ogre has to give body parts to get body parts of the human as food
-Ogre can't smell the difference between animals and humans because the shelter smells of freshly brewed coffee
-Man deceives ogre with animal parts
-Ogre gives parts of own body
-Ogre dies
+Ogre hides in shelter
+Man has to give body parts to get body parts of the ogre as food
+Man can't smell the difference between animals and humans because the shelter smells of freshly brewed coffee
+Ogre deceives man with animal parts
+Man gives parts of own body
